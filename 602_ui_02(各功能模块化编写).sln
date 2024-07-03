@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "602_ui_02(各功能模块化编写)", "602_ui_02(各功能模块化编写)\602_ui_02(各功能模块化编写).vcxproj", "{6163682B-3983-46DD-94DA-BA22BEC6C776}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6163682B-3983-46DD-94DA-BA22BEC6C776}.Debug|x64.ActiveCfg = Debug|x64
+		{6163682B-3983-46DD-94DA-BA22BEC6C776}.Debug|x64.Build.0 = Debug|x64
+		{6163682B-3983-46DD-94DA-BA22BEC6C776}.Release|x64.ActiveCfg = Release|x64
+		{6163682B-3983-46DD-94DA-BA22BEC6C776}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D70C6640-38A5-4627-A3CF-5ADFB228FEBE}
+	EndGlobalSection
+EndGlobal
